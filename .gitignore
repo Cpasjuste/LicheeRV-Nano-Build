@@ -415,7 +415,10 @@ middleware/v2/sample/vio/sample_vio.d
 middleware/v2/sample/vio/sample_vio.o
 middleware/v2/sample/vio/sample_vio_main.d
 middleware/v2/sample/vio/sample_vio_main.o
+middleware/v2/3rdparty/cli/lib*
+middleware/v2/Makefile
 osdrv/extdrv/wireless/.tmp_4261/
 middleware/v2/lib
 host-tools/
 kvm/
+
